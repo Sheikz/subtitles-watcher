@@ -1,0 +1,11 @@
+{
+    "subtitles": {
+        "maxFiles": 10,
+        "language": "eng",
+        "replace": false
+    },
+    "watch": {
+        "dir": ".",
+        "recursive": true
+    }
+}
