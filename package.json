@@ -1,7 +1,7 @@
 {
   "name": "subtitles-watcher",
   "version": "1.0.0",
-  "description": "A node command-tool to recursively watch folders and automatically download subtitles for movies",
+  "description": "A node command line tool to recursively watch folders and automatically download subtitles for movies",
   "main": "app.js",
   "dependencies": {
     "chokidar": "1.7.0",
@@ -16,6 +16,7 @@
     "start": "node src/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Thomas Mouchart",
+  "homepage": "https://github.com/Sheikz/subtitles-watcher",
   "license": "ISC"
 }
