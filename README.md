@@ -1,12 +1,10 @@
 # subtitles-watcher
 A node command line tool to recursively watch folders and automatically download subtitles for movies
 ## Getting started
-Clone the repository 
+Clone the repository and install
 ```
 git clone https://github.com/Sheikz/subtitles-watcher.git [Installation folder]
-```
-Install with npm
-```
+cd [Installation folder]
 npm install
 ```
 Watch the current folder
